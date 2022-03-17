@@ -1,0 +1,30 @@
+.prenav{
+height: 20px;
+background-color: #004c40;
+}
+
+.BarNav{
+
+    height: 40px;
+    background-color: #00796b;
+}
+
+.nav-link{
+    color: #ffffff !important;
+}
+
+.nav-link:hover{
+background-color: #004c40;
+
+}
+
+.bodyForm{
+    margin-left: 33%;
+    margin-top:10%;
+    width: 35%;
+}
+
+.btn{
+    background-color: #004c40 ;
+    color: #ffffff;
+}
